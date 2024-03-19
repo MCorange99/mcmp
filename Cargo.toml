@@ -1,0 +1,16 @@
+[workspace]
+members = [
+    "mcmp-client", "mcmp-client-lib",
+    "mcmp-server"
+]
+resolver = "2"
+
+
+
+[workspace.package]
+authors = ["MCorange <mcorange@mcorangehq.xyz>"]
+description = "Control panel for my own services"
+readme = "README.md"
+version = "0.1.0"
+edition = "2021"
+

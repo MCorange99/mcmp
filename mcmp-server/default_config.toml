@@ -1,0 +1,5 @@
+port=6969
+
+
+[database]
+uri="./db.json"

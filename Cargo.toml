@@ -1,6 +1,6 @@
 [workspace]
 members = [
-    "mcmp-client", "mcmp-client-lib",
+    "mcmp-client", "mcmp-client-lib", "mcmp-common",
     "mcmp-server"
 ]
 resolver = "2"
